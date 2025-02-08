@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/e/NewWork/Compiler/ZLang -B /mnt/e/NewWork/Compiler/ZLang/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/e/NewWork/Compiler/ZLang/cmake-build-debug

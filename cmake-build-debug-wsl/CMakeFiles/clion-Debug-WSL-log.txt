@@ -1,0 +1,2 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/e/NewWork/Compiler/ZLang
+/bin/bash: line 1: /usr/bin/cmake: No such file or directory

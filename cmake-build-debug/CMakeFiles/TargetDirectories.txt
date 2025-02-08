@@ -1,0 +1,3 @@
+/mnt/e/NewWork/Compiler/ZLang/cmake-build-debug/CMakeFiles/z.dir
+/mnt/e/NewWork/Compiler/ZLang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/NewWork/Compiler/ZLang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
